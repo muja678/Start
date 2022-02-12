@@ -9,6 +9,7 @@ public class code1 {
 	{
 		
 		System.out.println("india");
+		System.out.println("west indies");
 	}
 
 }
